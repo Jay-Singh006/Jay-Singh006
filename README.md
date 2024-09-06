@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Jay-Singh006
+- 👀 I’m interested in programming 
+- 🌱 I’m currently learning python
+- 📫 How to reach me - jay45singh006@gmail.com
